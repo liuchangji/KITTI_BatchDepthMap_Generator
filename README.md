@@ -2,5 +2,5 @@
 
 修改自：https://github.com/linghugoogle/DenseDepthMap
 
-打开main.py，设置目录
-运行main.py即可
+打开main.m，设置目录
+运行main.m即可
